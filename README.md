@@ -89,7 +89,7 @@ I'm a final-year undergraduate at **MBM University** pursuing a degree in **Arti
   <!-- NumPy -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" title="YNumpy" />
   <!-- Matplotlib -->
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmatplotlib.org%2Fstable%2Fgallery%2Fmisc%2Flogos2.html&psig=AOvVaw1XfgbQB3DCtgLE6--MNoDp&ust=1770967210051000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPCajJC105IDFQAAAAAdAAAAABAE" width="40" title="Matplotlib" />
+  <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" width="40" title="Matplotlib" />
   <!-- YOLO (Custom icon or use placeholder) -->
   <img src="https://cdn.prod.website-files.com/646dd1f1a3703e451ba81ecc/64994922cf2a6385a4bf4489_UltralyticsYOLO_mark_blue.svg" width="40" title="YOLO" />
   <!-- FAISS (No official icon: using Meta logo as placeholder) -->
